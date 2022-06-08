@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { BsArrowRight } from 'react-icons/bs';
+
 /*
 COMPONENTE RESPONSAVEL PELAS QUESTOES!!!
 */
